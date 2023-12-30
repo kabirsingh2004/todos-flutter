@@ -44,7 +44,10 @@ flutter run
 - Add new tasks to the list
 - Edit existing tasks
 - Mark tasks as completed
+- Search Todos in List
 - Delete tasks
+- Light/Dark Mode
+
 
 ## Contributing
 
